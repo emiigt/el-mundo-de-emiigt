@@ -57,12 +57,18 @@
   </header>
   <nav>
     <a href="#inicio">Inicio</a>
+    <img src="https://www.instagram.com/p/DE1SaRUuLL4/" alt="inicio" width="300" />
     <a href="#sobre">Sobre mí</a>
-    <a href="#proyectos">Mis proyectos</a>
+    <img src="imagen8.jpg" alt="sobre mi" width="300" />
     <a href="#musica">Mi música favorita</a>
+    <img src="imagen3.jpg" alt="Mi música favorita" width="300" />
+
     <a href="#blog">Blog</a>
+    <img src="https://www.instagram.com/p/DGPMTLqoSlG/?img_index=1" alt="Blog" width="300" />
     <a href="#galeria">Galería</a>
+    <img src="https://www.instagram.com/p/DHNHyb3t89S/?img_index=1" alt="Galería" width="300" />
     <a href="#contacto">Contacto</a>
+
   </nav>
   <section id="inicio" class="seccion">
     <h2>Inicio</h2>
@@ -70,12 +76,9 @@
   </section>
   <section id="sobre" class="seccion">
     <h2>Sobre mí</h2>
-    <p>Me llamo Emiliano, soy un joven creativo y soñador que ama la música, el arte y ayudar a los demás.</p>
+    <p>Me llamo Emiliano, soy un joven creativo y soñador que ama la música y ayudar a los demás.</p>
   </section>
-  <section id="proyectos" class="seccion">
-    <h2>Mis proyectos</h2>
-    <p>Aquí compartiré mis trabajos, ideas, y todo lo que estoy creando. ¡Pronto habrá más!</p>
-  </section>
+
   <section id="musica" class="seccion">
     <h2>Mi música favorita</h2>
     <p>Gloria Trevi, por supuesto 💥 ¡Pero también muchas más! 🎶</p>
@@ -90,7 +93,8 @@
   </section>
   <section id="contacto" class="seccion">
     <h2>Contacto</h2>
-    <p>¿Quieres escribirme? Puedes hacerlo a través de este sitio muy pronto.</p>
+    <p>¿Quieres escribirme? Puedes hacerlo a través de .</p>
+    <a href="https://www.instagram.com/emiigt/" target="_blank">
   </section>
   <footer>
     <p>Hecho con 💖 por Emiliano (EMIIGT)</p>
