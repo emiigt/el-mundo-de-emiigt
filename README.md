@@ -57,39 +57,43 @@
   </header>
   <nav>
     <a href="#inicio">Inicio</a>
-    <img src="https://www.instagram.com/p/DE1SaRUuLL4/" alt="inicio" width="300" />
-    <a href="#sobre">Sobre mí</a>
-    <img src="imagen8.jpg" alt="sobre mi" width="300" />
+  <a href="#sobre">Sobre mí</a>
+    
     <a href="#musica">Mi música favorita</a>
-    <img src="imagen3.jpg" alt="Mi música favorita" width="300" />
+    
 
     <a href="#blog">Blog</a>
-    <img src="https://www.instagram.com/p/DGPMTLqoSlG/?img_index=1" alt="Blog" width="300" />
+    
     <a href="#galeria">Galería</a>
-    <img src="https://www.instagram.com/p/DHNHyb3t89S/?img_index=1" alt="Galería" width="300" />
+   
     <a href="#contacto">Contacto</a>
 
   </nav>
   <section id="inicio" class="seccion">
     <h2>Inicio</h2>
     <p>¡Hola! Este es mi sitio web donde comparto lo que soy, lo que hago y lo que me inspira. 💖</p>
+      <img src="https://www.instagram.com/p/DE1SaRUuLL4/" alt="inicio" width="300" />
   </section>
   <section id="sobre" class="seccion">
     <h2>Sobre mí</h2>
     <p>Me llamo Emiliano, soy un joven creativo y soñador que ama la música y ayudar a los demás.</p>
+    <img src="imagen8.jpg" alt="sobre mi" width="300" />
   </section>
 
   <section id="musica" class="seccion">
     <h2>Mi música favorita</h2>
     <p>Gloria Trevi, por supuesto 💥 ¡Pero también muchas más! 🎶</p>
+    <img src="imagen3.jpg" alt="Mi música favorita" width="300" />
   </section>
   <section id="blog" class="seccion">
     <h2>Blog o pensamientos</h2>
     <p>Un espacio para escribir lo que siento, lo que pienso o simplemente lo que quiero contar.</p>
+    <img src="https://www.instagram.com/p/DGPMTLqoSlG/?img_index=1" alt="Blog" width="300" />
   </section>
   <section id="galeria" class="seccion">
     <h2>Galería</h2>
     <p>Aquí iré subiendo mis fotos, dibujos o cualquier arte que me guste. 🎨📷</p>
+     <img src="https://www.instagram.com/p/DHNHyb3t89S/?img_index=1" alt="Galería" width="300" />
   </section>
   <section id="contacto" class="seccion">
     <h2>Contacto</h2>
